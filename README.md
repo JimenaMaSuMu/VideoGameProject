@@ -1,7 +1,8 @@
 # VideoGameProject
-Ice Store: Análisis de Ventas de Videojuegos y Planificación de Campañas Publicitarias
+Análisis de Ventas de Videojuegos y Planificación de Campañas Publicitarias
 
 Descripción del Proyecto
+
 Trabajamos con datos históricos de ventas de videojuegos para identificar patrones que determinen el éxito de un juego. Este análisis permite detectar proyectos prometedores y planificar campañas publicitarias para maximizar las ventas en 2017 (considerando que nos encontramos en diciembre de 2016).
 
 El análisis se realiza utilizando datos sobre plataformas, géneros, reseñas de usuarios y críticos, ventas regionales, y clasificaciones ESRB (como Adolescente o Adulto).
